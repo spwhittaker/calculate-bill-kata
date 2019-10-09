@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch",
-    "jest.pathToJest": "npm test --"
+    "test": "jest --watch"
   },
-  "author": "Stephen",
+      "author": "Stephen",
   "license": "ISC",
   "dependencies": {
     "jest": "^24.9.0"
