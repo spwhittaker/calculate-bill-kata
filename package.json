@@ -1,0 +1,15 @@
+{
+  "name": "calculate-bill-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch",
+    "jest.pathToJest": "npm test --"
+  },
+  "author": "Stephen",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
